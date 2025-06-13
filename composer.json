@@ -38,7 +38,7 @@
         "illuminate/container": ">=9.0",
         "illuminate/routing": ">=9.0",
         "illuminate/support": ">=9.0",
-        "payum/core": "1.7.x-dev",
+        "payum/core": "^1.7",
         "php-http/guzzle7-adapter": "^1.0"
     },
     "suggest": {
